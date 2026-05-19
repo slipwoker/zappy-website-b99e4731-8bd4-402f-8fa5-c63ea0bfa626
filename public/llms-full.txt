@@ -2,13 +2,13 @@
 
 A solo graphic designer offering fast, affordable, and professional advertising flyers starting at 75₪, targeting the Haredi (ultra-Orthodox Jewish) community. The brand identity is warm, trustworthy, and straightforward — not corporate or tech-heavy. The visual language is clean and dignified, using white, black, soft gold, and gray. The service is positioned as quick, accessible, and community-oriented, catering to synagogues, small shops, bakeries, Torah classes, events, job listings, and more. The entire experience is designed to feel simple, reliable, and worth every shekel.
 
-Source: https://-b99e4731.zappy5.app
+Source: https://example.com
 
 ---
 
 ## advertising flyer design — פרסום פלוס
 
-URL: https://-b99e4731.zappy5.app
+URL: https://example.com
 Description: A solo graphic designer offering fast, affordable, and professional advertising flyers starting at 75₪, targeting the Haredi (ultra-Orthodox Jewish) community. 
 
 advertising flyer design — פרסום פלוס
@@ -804,7 +804,7 @@ advertising flyer design — פרסום פלוס
 
 ## מדיניות פרטיות
 
-URL: https://-b99e4731.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1084,7 +1084,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-b99e4731.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1373,7 +1373,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-b99e4731.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
