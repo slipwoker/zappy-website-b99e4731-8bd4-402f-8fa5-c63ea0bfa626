@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://example.com
+https://pirsumplus.zappy5.app
 A solo graphic designer offering fast, affordable, and professional advertising flyers starting at 75₪, targeting the Haredi (ultra-Orthodox Jewish) community. 
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://pirsumplus.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://pirsumplus.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://pirsumplus.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -31,8 +31,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://pirsumplus.zappy5.app
+- Endpoint: https://pirsumplus.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -62,6 +62,6 @@ Graphic Design & Advertising
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://pirsumplus.zappy5.app/sitemap.xml
+- Robots: https://pirsumplus.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://pirsumplus.zappy5.app/llms-full.txt
